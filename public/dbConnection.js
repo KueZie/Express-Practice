@@ -3,7 +3,7 @@ const assert = require('assert');
 
 //connection info
 
-const url = 'mongodb+srv://mongodb-stitch-passes-weafv:Nigahiga0!@cluster0-zlco8.mongodb.net/test?retryWrites=true';
+const url = 'mongodb+srv://mongodb-stitch-passes-weafv:<ommitted>@cluster0-zlco8.mongodb.net/test?retryWrites=true';
 
 function connection(callback) {
 
